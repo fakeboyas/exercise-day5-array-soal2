@@ -1,0 +1,18 @@
+.container-one {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.kotak1 {
+    border: 3px solid black;
+    border-radius: 2px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.kotak2 {
+    border: 3px solid black;
+    border-radius: 2px;
+    padding: 10px;
+    box-sizing: border-box;
+}
